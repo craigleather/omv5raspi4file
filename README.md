@@ -3,7 +3,7 @@
 So it all started with a project on the Facebook Page of Raspberry pi projects
 https://www.facebook.com/groups/RaspberryPiProjects/
 
-since having a raspberry pi 1 iv bought every pi going, (cheap as chips £35UK). im slowly building and learning myself as i go along.
+since having a raspberry pi 1 iv bought every pi going, (cheap as chips £35UK). im slowly building and learning myself as i go along. So be patient and if you have anything to share then teach me.
 
 I have always wanted to build my own little NAS sever so i can access it on the go. Mainly my work files so i can easily access them where ever i am in England.
 
@@ -12,6 +12,8 @@ I was researching for a while how to setup my own NAS that would work with the N
 I have gone thought countless hours of installations of RPI4/OMV5 to get it running, pretty well. Iv cloned my drive and uploaded it to a torrenting factor so its accessable to everyone with very little effort. On the image that i have uploaded it comes with pree installed docker/portainer and cocker, fully working without any issues. the only commands you will have to carry out is the dnchcd.conf to adjust your isp to set it to a dedicated ip of your choise.
 
 Once the img file has downloaded, set your isp ip to your choise either dynamic or static(if it is dynamic reserve a slot on your router to prevent it changing the ip of the rpi5omv)
+
+
 
 carry out sudo command of
 
