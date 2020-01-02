@@ -16,6 +16,7 @@ Once the img file has downloaded, set your isp ip to your choise either dynamic 
 carry out sudo command of
 
 sudo nano /etc/dhcpcd.conf
+
 scroll down the page file untill you see interface eth0 and adjust your settings accordingly
 
 All usernames and passwords are
