@@ -30,4 +30,4 @@ user:pi
 pass:adminadmin
 
 
-i will be posting updated images of the RPI4OMV5 so it is alot easier for everyone else.
+i will be posting updated images of the RPI4OMV5 so it is alot easier for everyone else to just burn to an sd card then plug and play. when i have updated my omv5&pi4 and installed new portainer docker containers ill be sure to let everyone know and update the new image. as i have multipul pi's i will be cloning and updating on a monthly period so i can run tests check ect.
